@@ -1,7 +1,8 @@
 # GP-Detection-VF-Prediction
 ### Glaucoma Progression Detection and HumphreyVisual Field Prediction Using Discriminative and Generative Vision Transformers ###
 
-## Update: 07/2023 Structured Code for GP Detection using UWHVF data - by Allison Cui
+#### Update: 07/2023 Structured Code for GP Detection using UWHVF data ####
+#### - by Allison Cui ####
 
 
 
